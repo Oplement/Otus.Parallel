@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "base", "OtusParallel\base.csproj", "{8213961F-0483-40CD-AB98-CBBF11BA7215}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "process", "process\process.csproj", "{3E4B31A0-AEAA-4355-A87C-A30D6169914F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8213961F-0483-40CD-AB98-CBBF11BA7215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8213961F-0483-40CD-AB98-CBBF11BA7215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8213961F-0483-40CD-AB98-CBBF11BA7215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8213961F-0483-40CD-AB98-CBBF11BA7215}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E4B31A0-AEAA-4355-A87C-A30D6169914F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E4B31A0-AEAA-4355-A87C-A30D6169914F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E4B31A0-AEAA-4355-A87C-A30D6169914F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E4B31A0-AEAA-4355-A87C-A30D6169914F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A181FFE-0B25-4CA3-8B01-ACE8F59B2515}
+	EndGlobalSection
+EndGlobal
